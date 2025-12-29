@@ -1,0 +1,6 @@
+USE_LOCAL_TTS = False
+USE_CLOUD_TTS = True
+USE_SIMPLE_TTS = False
+
+MERGE_AUDIO = True
+OUTPUT_FORMAT = "mp3"

@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  tts:
+    build: .
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
