@@ -145,15 +145,6 @@ Generated audio appears under `output/`.
 
 ---
 
-## 💡 Philosophy
-
-StoryTeller-TTS favors:
-- Clarity over cleverness
-- Extensibility over premature optimization
-- Backend independence
-
----
-
 ## 📜 License
 
 Apache-2.0
